@@ -1,0 +1,1 @@
+In this folder, 6 files are there for training of 6 types of attacks. Each file combines the first five folders of each type of attack. For example, adduser combines Adduser_1, Adduser_2, Adduser_3, Adduser_4, Adduser_5, Adduser_6 output files.
